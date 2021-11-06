@@ -13,7 +13,7 @@ before I figure out how to create a more beautiful website with Jekyll. You are 
 
 # 🇨🇳以下是微信公众号上的原文链接；🇺🇸Below are the links to the original blogs in Chinese on wechat; 🇨🇱 Debajo están los links a los blogs originales en chino en Wechat.
 
-# 🇺🇸You may translate the blogs with your browser. Keep in mind that machine translation could get more creative than the blogger himself :D Puedes traducir los blogs con tu browser. 🇨🇱 Tenga en cuenta que la traducción por internet puede ser más creativo que el bloguero su mismo :D
+# 🇺🇸You may translate the blogs with your browser. Keep in mind that machine translation could get more creative than the blogger himself :D 🇨🇱 Puedes traducir los blogs con tu browser. Tenga en cuenta que la traducción por internet puede ser más creativo que el bloguero su mismo :D
 
 01 (22/10/2019) - Update October 2019; Actualización Oct 2019: https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247483673&idx=1&sn=a753557325548def41554f637a89efd0&chksm=9ae73fa0ad90b6b62eef75e0244dc932e30b6a2653658220ff9e63f83da6675e35fa710ace1b&token=1270226499&lang=zh_CN#rd
 
