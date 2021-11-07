@@ -41,4 +41,6 @@ before I figure out how to create a more beautiful website with Jekyll. You are 
 
 13 (29/9/2021) - 🇺🇸 Grand circuit of the Northern Chile; 🇨🇱 Gran circuito del Norte Grande: https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247484170&idx=1&sn=8edb3b72b63883cad54f8c4a0aab617c&chksm=9ae73db3ad90b4a5dfbd29b413356d45f314021d3b3c16f1a639cca31e7a5d2fdbec14d65601&token=1270226499&lang=zh_CN#rd
 
-14 (7/11/2021) - 🇺🇸 Araucanía region and Chile's national week holiday; 🇨🇱 Araucanía y Dieciocho: WORK IN PROGRESS
+14 (7/11/2021) - 🇺🇸 Araucanía region and Chile's national week holiday; 🇨🇱 Araucanía y Dieciocho: https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247484284&idx=1&sn=6740036e0218ea164b716dd8f4fc0873&chksm=9ae73dc5ad90b4d34d3a2ef67231b6f333721e75a4983eb0b6b942482d54440dd8f65cb8eefc&token=1270226499&lang=zh_CN#rd
+
+15 (TBD) - TBD
