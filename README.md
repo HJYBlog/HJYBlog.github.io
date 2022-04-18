@@ -43,10 +43,11 @@ before I figure out how to create a more beautiful website with Jekyll. You are 
 
 14 (7/11/2021) - 🇺🇸 Araucanía region and Chile's national week holiday; 🇨🇱 Araucanía y Dieciocho: https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247484284&idx=1&sn=6740036e0218ea164b716dd8f4fc0873&chksm=9ae73dc5ad90b4d34d3a2ef67231b6f333721e75a4983eb0b6b942482d54440dd8f65cb8eefc&token=1270226499&lang=zh_CN#rd
 
-15 (16/02/2022) - 🇺🇸 Why I left the USA for Chile. Mindset change since then ;🇨🇱 Por qué me fui de EEUU para Chile. Cambios de mi mentalidad. 
+15 (16/02/2022) - 🇺🇸 Why I left the USA for Chile. Mindset change since then ;🇨🇱 Por qué me fui de EEUU para Chile. Cambios de mi mentalidad.
 https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247484292&idx=1&sn=e88825c764b07a09abffa210429b824b&chksm=9ae73d3dad90b42b34a2cfcc885d92c08082fee20807e0608373216cae1a3242b767fc25a910&token=1404231879&lang=zh_CN#rd
 
-16 (TBD) - 🇺🇸; 🇨🇱 ;  
+16 (17/04/2022) - 🇺🇸 The development of mindset since 2020 and a difficult period; 🇨🇱 El desarrollo de mi mentalidad y un periodo difícil.  
+https://mp.weixin.qq.com/s?__biz=MzAwMDYwMTA0Ng==&mid=2247484312&idx=1&sn=c027a5fbeddcd0e14d173b862ff18029&chksm=9ae73d21ad90b437a948ce183a8212b85da8ecaf3ce744041237bec488f7f684c537bc25534d&token=829711472&lang=zh_CN#rd
 
 17 (TBD) - 🇺🇸; 🇨🇱 ;  
 
